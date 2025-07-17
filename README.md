@@ -7,7 +7,7 @@ Given features derived from an online course platform, predict the likelihood th
 ## Overview
 - Binary classification problem
 - Used 7 tree-based models
-- Engineered synthetic features and evluated them
+- Engineered synthetic features and evaluated them
 - Best model: LightGBM with `TimePerVideo` synthetic feature
     - F1 Score: 73.21%
     - Accuracy: 77.46%
